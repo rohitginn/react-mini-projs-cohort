@@ -4,7 +4,7 @@ import { Quote } from "./assignment/Quote";
 import { RandomCat } from "./assignment/RandomCat";
 import { RandomUser } from "./assignment/RandomUser";
 import { YoutubeLists } from "./assignment/YoutubeLists";
-import { Jokes } from "./assignment/jokes";
+import { Jokes } from "./assignment/Jokes";
 import { Routes, Route } from "react-router";
 
 function App() {
